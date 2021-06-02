@@ -2,7 +2,7 @@
 A basic implementation of opps using rectangle geometry algorithms in c++
 
 Design and Implement a C++ program that implements the following:
-  • 2D axis-aligned Rectangle class with floating point coordinates
+  • 2D axis-aligned Rectangle class with floating point coordinates</br>
   o Include methods for constructing an axis-aligned Rectangle with initial size and
     coordinates
   • Algorithm that checks whether or not a Point2D (see below) is contained in an axis-aligned
